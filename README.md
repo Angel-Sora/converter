@@ -77,3 +77,8 @@
 ```bash
 git clone https://github.com/Angel-Sora/converter.git
 cd converter
+```
+2. **Установка зависимостей**
+```bash
+pip install -r requirements.txt
+```
