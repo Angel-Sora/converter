@@ -3,16 +3,18 @@
 **Мощный и универсальный конвертер файлов с графическим интерфейсом и поддержкой командной строки**
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/yourusername/file-converter)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/Angel-Sora/converter)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ---
 
 ## 📋 Оглавление
 
-- Возможности
-- Поддерживаемые форматы
-- Установка
-- Быстрый старт
+- [Возможности](#-возможности)
+- [Поддерживаемые форматы](#-поддерживаемые-форматы)
+- [Установка](#-установка)
+- [Быстрый старт](#-быстрый-старт)
+- [Юридическая информация](#-юридическая-информация)
 
 ---
 
@@ -73,5 +75,5 @@
 
 1. **Клонирование репозитория**
 ```bash
-git clone https://github.com/yourusername/file-converter.git
-cd file-converter
+git clone https://github.com/Angel-Sora/converter.git
+cd converter
