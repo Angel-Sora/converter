@@ -1,0 +1,31 @@
+Universal File Converter
+Copyright (c) 2026 Angel-Sora (https://github.com/Angel-Sora)
+
+This project includes software developed by third parties:
+
+- Pillow (HPND License)
+  https://github.com/python-pillow/Pillow
+
+- pandas (BSD 3-Clause License)
+  https://github.com/pandas-dev/pandas
+
+- python-docx (MIT License)
+  https://github.com/python-openxml/python-docx
+
+- pytesseract (Apache License 2.0)
+  https://github.com/madmaze/pytesseract
+
+- openpyxl (MIT License)
+  https://github.com/openpyxl/openpyxl
+
+- PyYAML (MIT License)
+  https://github.com/yaml/pyyaml
+
+- chardet (GNU Lesser General Public License)
+  https://github.com/chardet/chardet
+
+- tqdm (MIT License and MPL 2.0)
+  https://github.com/tqdm/tqdm
+
+- Tesseract OCR (Apache License 2.0)
+  https://github.com/tesseract-ocr/tesseract
