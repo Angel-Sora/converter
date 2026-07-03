@@ -1,0 +1,1 @@
+pip install pandas openpyxl pillow pytesseract pdf2image python-docx pyyaml chardet tqdm
